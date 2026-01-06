@@ -130,5 +130,9 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-.idea
+# macOS-specific files
+.DS_Store
+
+# jetbrains setting folder
+.idea/
 
